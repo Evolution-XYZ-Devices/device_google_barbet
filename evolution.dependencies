@@ -1,0 +1,10 @@
+[
+  {
+    "repository"  : "device_google_redbull",
+    "target_path" : "device/google/redbull"
+  }
+  {
+    "repository"  : "vendor_google_barbet",
+    "target_path" : "vendor/google/barbet"
+  }
+]
